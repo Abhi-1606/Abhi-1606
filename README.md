@@ -1,14 +1,14 @@
 # Hey there! 👋 I'm Abhishek
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&width=600&lines=Web+Developer+%7C+Competitive+Programmer;Building+Beautiful+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&width=600&lines=WWeb+Developer+%7C+Competitive+Programmer;Building+Beautiful+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **second-year B.Tech student** from **Bengaluru, India**, passionate about building intuitive and visually stunning web applications. I love solving complex problems through code and continuously improving my skills in modern web technologies.
+I'm a **first-year B.Tech student** from **Bengaluru, India**, passionate about building intuitive and visually stunning web applications. I love solving complex problems through code and continuously improving my skills in modern web technologies.
 
 ### 💻 What I Do
 - **Web Development**: Creating responsive, interactive applications with HTML, CSS, and JavaScript
