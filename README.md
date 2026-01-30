@@ -99,14 +99,3 @@ Comprehensive collection of HackerRank problem solutions in multiple languages.
 ---
 
 ---
-
-
-
-
-<div align="center">
-  
-![snake gif](https://github.com/Abhi-1606/Abhi-1606/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
