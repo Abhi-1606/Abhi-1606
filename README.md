@@ -50,16 +50,6 @@ Comprehensive collection of HackerRank problem solutions in multiple languages.
 
 ---
 
-## 🎮 Interactive Snake Game
-
-<div align="center">
-
-### 🐍 Play Snake - Eat Countries Edition!
-
-Click the link below to play an interactive snake game where your snake grows by eating country territories!
-
-[![Play Snake Game](https://img.shields.io/badge/🐍%20Play%20Snake%20Game-Click%20Here-ff69b4?style=for-the-badge&logo=gamepad&logoColor=white)](https://Abhi-1606.github.io/snake-game/)
-
 **Features:**
 - 🌍 Eat virtual country territories to grow
 - 📈 Progressive difficulty as you score
@@ -110,7 +100,6 @@ Click the link below to play an interactive snake game where your snake grows by
 
 ---
 
-## 🐍 My Contributions
 
 
 
