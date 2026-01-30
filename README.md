@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **first-year B.Tech student** from **Bengaluru, India**, passionate about building intuitive and visually stunning web applications. I love solving complex problems through code and continuously improving my skills in modern web technologies.
+I'm a **second-year B.Tech student** from **Bengaluru, India**, passionate about building intuitive and visually stunning web applications. I love solving complex problems through code and continuously improving my skills in modern web technologies.
 
 ### 💻 What I Do
 - **Web Development**: Creating responsive, interactive applications with HTML, CSS, and JavaScript
@@ -50,11 +50,34 @@ Comprehensive collection of HackerRank problem solutions in multiple languages.
 
 ---
 
+## 🎮 Interactive Snake Game
+
+<div align="center">
+
+### 🐍 Play Snake - Eat Countries Edition!
+
+Click the link below to play an interactive snake game where your snake grows by eating country territories!
+
+[![Play Snake Game](https://img.shields.io/badge/🐍%20Play%20Snake%20Game-Click%20Here-ff69b4?style=for-the-badge&logo=gamepad&logoColor=white)](https://Abhi-1606.github.io/snake-game/)
+
+**Features:**
+- 🌍 Eat virtual country territories to grow
+- 📈 Progressive difficulty as you score
+- 🎯 Real-time score tracking
+- ⌨️ Smooth keyboard controls (Arrow Keys)
+- 📱 Mobile-friendly responsive design
+
+> **[🐍 Start Playing Now!](https://Abhi-1606.github.io/snake-game/)**
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1606&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1606&layout=compact&langs_count=7&theme=nightowl" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1606&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1606&layout=compact&langs_count=7&theme=nightowl" alt="Top Languages" />
 </div>
 
 ---
@@ -65,6 +88,7 @@ Comprehensive collection of HackerRank problem solutions in multiple languages.
 - 📚 Preparing for **competitive programming** challenges
 - 🎨 Improving **UI/UX design** and animation skills
 - 📖 Learning advanced **JavaScript** concepts
+- 🐍 Creating interactive games and web experiences
 
 ---
 
@@ -83,8 +107,8 @@ Comprehensive collection of HackerRank problem solutions in multiple languages.
 
 ## 📝 Fun Facts
 
-- 🎬 Loves anime
-- 🏎️ Follows F1 racing and cricket 
+- 🎬 Loves anime, especially isekai and fantasy genres
+- 🏎️ Follows F1 racing and cricket (India vs New Zealand enthusiast!)
 - 💡 Believes in writing clean, readable code
 - ⚡ Quick learner who enjoys solving real-world problems
 
