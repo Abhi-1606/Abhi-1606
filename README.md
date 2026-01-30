@@ -83,8 +83,8 @@ Comprehensive collection of HackerRank problem solutions in multiple languages.
 
 ## 📝 Fun Facts
 
-- 🎬 Loves anime, especially isekai and fantasy genres
-- 🏎️ Follows F1 racing and cricket (India vs New Zealand enthusiast!)
+- 🎬 Loves anime
+- 🏎️ Follows F1 racing and cricket 
 - 💡 Believes in writing clean, readable code
 - ⚡ Quick learner who enjoys solving real-world problems
 
