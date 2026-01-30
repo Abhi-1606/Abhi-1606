@@ -67,18 +67,12 @@ Click the link below to play an interactive snake game where your snake grows by
 - ⌨️ Smooth keyboard controls (Arrow Keys)
 - 📱 Mobile-friendly responsive design
 
-> **[🐍 Start Playing Now!](https://Abhi-1606.github.io/snake-game/)**
 
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi-1606&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-1606&layout=compact&langs_count=7&theme=nightowl" alt="Top Languages" />
-</div>
 
 ---
 
